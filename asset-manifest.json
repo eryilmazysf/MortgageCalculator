@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MortgageCalculator/static/css/main.86e18a2b.chunk.css",
+    "main.js": "/MortgageCalculator/static/js/main.670e4f83.chunk.js",
+    "main.js.map": "/MortgageCalculator/static/js/main.670e4f83.chunk.js.map",
+    "runtime-main.js": "/MortgageCalculator/static/js/runtime-main.a487c8ef.js",
+    "runtime-main.js.map": "/MortgageCalculator/static/js/runtime-main.a487c8ef.js.map",
+    "static/js/2.64938391.chunk.js": "/MortgageCalculator/static/js/2.64938391.chunk.js",
+    "static/js/2.64938391.chunk.js.map": "/MortgageCalculator/static/js/2.64938391.chunk.js.map",
+    "static/js/3.d191ab50.chunk.js": "/MortgageCalculator/static/js/3.d191ab50.chunk.js",
+    "static/js/3.d191ab50.chunk.js.map": "/MortgageCalculator/static/js/3.d191ab50.chunk.js.map",
+    "index.html": "/MortgageCalculator/index.html",
+    "static/css/main.86e18a2b.chunk.css.map": "/MortgageCalculator/static/css/main.86e18a2b.chunk.css.map",
+    "static/js/2.64938391.chunk.js.LICENSE.txt": "/MortgageCalculator/static/js/2.64938391.chunk.js.LICENSE.txt",
+    "static/media/background.5d13ff30.jpeg": "/MortgageCalculator/static/media/background.5d13ff30.jpeg",
+    "static/media/logo.423f7650.png": "/MortgageCalculator/static/media/logo.423f7650.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a487c8ef.js",
+    "static/js/2.64938391.chunk.js",
+    "static/css/main.86e18a2b.chunk.css",
+    "static/js/main.670e4f83.chunk.js"
+  ]
+}
